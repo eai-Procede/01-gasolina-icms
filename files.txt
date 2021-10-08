@@ -1,0 +1,8 @@
+2021-01-gasolina-etanol.csv
+2021-02-gasolina-etanol.csv
+2021-03-gasolina-etanol.csv
+2021-04-gasolina-etanol.csv
+2021-05-gasolina-etanol.csv
+2021-06-gasolina-etanol.csv
+2021-07-gasolina-etanol.csv
+2021-08-gasolina-etanol.csv
